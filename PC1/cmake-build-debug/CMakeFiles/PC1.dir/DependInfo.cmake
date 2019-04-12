@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ruben/CLionProjects/PC1/TwoLinkedList.cpp" "/home/ruben/CLionProjects/PC1/cmake-build-debug/CMakeFiles/PC1.dir/TwoLinkedList.cpp.o"
-  "/home/ruben/CLionProjects/PC1/main.cpp" "/home/ruben/CLionProjects/PC1/cmake-build-debug/CMakeFiles/PC1.dir/main.cpp.o"
+  "C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/TwoLinkedList.cpp" "C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/cmake-build-debug/CMakeFiles/PC1.dir/TwoLinkedList.cpp.obj"
+  "C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/main.cpp" "C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/cmake-build-debug/CMakeFiles/PC1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

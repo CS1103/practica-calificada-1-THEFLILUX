@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/TwoLinkedList.cpp
+TwoLinkedList.h
+C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/TwoLinkedList.h
+iostream
+-
+string
+-
+
+C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/TwoLinkedList.h
+string
+-
+
+C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+C:/Users/Jorge/Documents/POO 2 proyects/practica-calificada-1-THEFLILUX/PC1/TwoLinkedList.h
+
