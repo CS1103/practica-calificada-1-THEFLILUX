@@ -30,7 +30,7 @@ int main() {
     // Unir Listas y agregar valores a ambas listas
     assert(tll.getlist(1) == string("1 2 3 4 5 "));
     assert(tll.getlist(2) == string("0 10 20 30 40 50 "));
-    assert(tll.getlist(0) == string());
+    assert(tll.getlist(0) == string()); //tll.getlist(0).empty();
 
     auto result1 = tll.merge(66);
     assert(result1 == string("Operación Exitosa"));
